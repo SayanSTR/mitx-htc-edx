@@ -1,1 +1,1 @@
-# mitx-htc
+# mitx-htc-edx
